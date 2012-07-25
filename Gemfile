@@ -22,6 +22,7 @@ group :test do
   gem 'cucumber-rails', require: false
   gem 'database_cleaner'
   gem 'rspec-rails', "~> 2.0"
+  gem 'spork'
 end
 
 # To use ActiveModel has_secure_password
